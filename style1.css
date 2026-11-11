@@ -22,7 +22,7 @@ header {
 nav {
   float: left;
   width: 30%;
-  min-height: 600px;
+  min-height: 700px;
   background: #66150E;
   padding: 20px;
 }
@@ -37,7 +37,7 @@ nav ul {
 article {
   float: right;
   padding: 20.10px;
-  width: 64.25%;
+  width: 60.25%;
   background-color: #D2B48C;
   min-height: 600px;
   color: #0F0C0C;
